@@ -1,3 +1,4 @@
+<!-- 评论配置完毕 -->
 {% import "macros.html" as m %}
 {% extends "blog_base.html" %}
 <!-- BLOG -->
@@ -76,7 +77,7 @@
     <div id="comments" class="comments">
       <div id="disqus_thread"></div>
       <script type="text/javascript">
-        var disqus_shortname = '{{ DISQUS_SITENAME }}';
+        var disqus_shortname = '2bapm';
         var disqus_identifier = "{{ article.url }}";
         var disqus_title = "{{ article.title|striptags|e }}";
         var disqus_url = "{{ SITEURL }}/{{ article.url }}";

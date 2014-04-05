@@ -4,8 +4,13 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Albert Young'
 SITENAME = u'Just Be Free!'
-SITEURL = ''
+SITEURL = 'http://2bapm.com'
+DISQUS_SITENAME = '2bapm'
 SITESUBTITLE = u'Freedom,Foolish,Simple!'
+SWIFTYPE = 'pxBYzUKusBXryhzz2Kiy'
+
+
+# Personal About
 PERSONAL_INFO = u'My name is Albert Young, a Product Manager who is working & living in Shenzhen, China. I\'ve spent about 4 years in internet industry from doing the operation of the Internet at first, to work as a Product Manager  in one of the greatest company in this world. I also do program work a lot as a personal hobby in my part-time. I learnt variety of languages, like C, C++, ASM, Object-Pascal since 6th grade in elementary school. But Python has been my favorite since I knew it for the first time in 2006. Also, English is my second language while my mother tongue is Madrin. I can speak some Japanese, and now is preparing for the official Japanese certification.'
 
 TIMEZONE = 'Aisa/Shanghai'
