@@ -20,6 +20,7 @@ GOOGLE_ANALYTICS_DOMAIN = '2bapm.com'
 
 # Personal About
 PERSONAL_INFO = u'Albet Young \n Product Manager in ShenZhen!!'
+PERSONAL_PHOTO = ''
 
 TIMEZONE = 'Aisa/Shanghai'
 
