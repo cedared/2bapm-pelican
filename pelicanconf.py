@@ -22,9 +22,8 @@ GOOGLE_ANALYTICS_DOMAIN = '2bapm.com'
 PERSONAL_INFO = u'Albert Young &nbsp; Product Manager in ShenZhen!!'
 PERSONAL_PHOTO = 'http://cedared.qiniudn.com/pic/me.jpg'
 
-TIMEZONE = 'Aisa/Shanghai'
-
-DEFAULT_LANG = u'zh'
+TIMEZONE = 'Asia/Shanghai' 
+DEFAULT_LANG = u'zh' 
 
 THEME = "/Users/albert/kuaipan/Dropbox/blog/theme/BT3-Flat"
 
