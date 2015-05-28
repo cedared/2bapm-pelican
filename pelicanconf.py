@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Albert Young'
 SITENAME = u'Just Be Free!'
-SITEURL = 'http://2bapm.com'
+SITEURL = 'https://2bapm.com'
 SITESUBTITLE = u'Freedom,Foolish,Simple!'
 
 # 评论
@@ -20,7 +20,7 @@ GOOGLE_ANALYTICS_DOMAIN = '2bapm.com'
 
 # Personal About
 PERSONAL_INFO = u'Albert Young &nbsp; Product Manager in ShenZhen!!'
-PERSONAL_PHOTO = 'http://cedared.qiniudn.com/pic/me.jpg'
+PERSONAL_PHOTO = 'https://dn-cedared.qbox.me/pic/me.jpg'
 
 TIMEZONE = 'Asia/Shanghai' 
 DEFAULT_LANG = u'zh' 
