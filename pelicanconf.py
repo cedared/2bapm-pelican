@@ -25,7 +25,7 @@ PERSONAL_PHOTO = 'https://dn-cedared.qbox.me/pic/me.jpg'
 TIMEZONE = 'Asia/Shanghai' 
 DEFAULT_LANG = u'zh' 
 
-THEME = "/Users/albert/kuaipan/Dropbox/blog/theme/BT3-Flat"
+THEME = "/Users/albert/Dropbox/blog/theme/BT3-Flat"
 
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'blog')
 PAGINATED_DIRECT_TEMPLATES = ('blog-index',)
